@@ -1,0 +1,43 @@
+
+header {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgba(110, 0, 213, 0.585) ;
+}
+p {
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        color: rgba(91, 1, 175, 0.653) ;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../img/pexels-jessica-bryant.jpg");
+    background-size: cover;
+}
+img {
+    height: 300px;
+    width: 500px;
+} 
+h2 {
+    color:green;
+    letter-spacing: 1em;
+    font-size: 1.5em;
+    text-align: center;
+}
+input {
+    color:darkblue;
+    margin-left: 15px;
+}
+td {
+    text-align:center;
+    padding: 0 0.5em;
+    
+}
+
+center #page {
+    background-color: rgba(172, 135, 208, 0.796);
+    width: 80%;
+    padding: 2em 0;
+
+}
